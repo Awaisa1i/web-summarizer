@@ -13,3 +13,6 @@ A Streamlit app that takes a URL as input and generates a summarized version of 
 git clone https://github.com/yourusername/web-summarizer.git
 cd web-summarizer
 pip install -r requirements.txt
+
+## Working
+![working](wb2.png)
