@@ -1,5 +1,5 @@
 # 🌐 Web Summarizer App
-wb1.png
+(wb1.png)
 A Streamlit app that takes a URL as input and generates a summarized version of the webpage using LLMs via Groq API.
 
 ## 🚀 Features
